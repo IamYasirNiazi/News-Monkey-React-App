@@ -2,8 +2,34 @@ import React, { Component } from 'react'
 
 export class NewsItem extends Component {
   render() {
+    
+    let {title, description, imageUrl, readMore, publishedAt, source} = this.props
+    
+    // Source Capitalization
+    let Capitalize = ()=>{
+      let sourceData = source.split("-")
+      for(let i=0; i < sourceData.length; i++){
+        sourceData[i] = sourceData[i].charAt(0).toUpperCase() + sourceData[i].slice(1).toLowerCase() ;
+      }
+      return sourceData.join(" ")
+    }
+
+    
     return (
-      <div>NewsItem</div>
+      <>
+      
+      <div className="card">
+        <span className="position-absolute top-0 start-50 translate-middle badge rounded-pill bg-danger">{Capitalize()}</span>
+        <img src={imageUrl} className="card-img-top img-fluid" alt="News" />
+        <div className="card-body">
+            <p>{new Date(publishedAt).toGMTString()}</p>
+            <h5 className="card-title">{title}...</h5>
+            <p className="card-text">{description}...</p>
+            <a href={readMore} rel="noreferrer" target="_blank" className="btn btn-sm btn-primary">Read More</a>
+        </div>
+      </div>
+
+      </>
     )
   }
 }
