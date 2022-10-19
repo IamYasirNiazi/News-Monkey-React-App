@@ -19,7 +19,7 @@ export class NewsItem extends Component {
       <>
       
       <div className="card">
-        <span className="position-absolute top-0 start-50 translate-middle badge rounded-pill bg-danger">{Capitalize()}</span>
+        <span className="d-flex position-absolute top-0 end-0 badge rounded-pill bg-danger">{Capitalize()}</span>
         <img src={imageUrl} className="card-img-top img-fluid" alt="News" />
         <div className="card-body">
             <p>{new Date(publishedAt).toGMTString()}</p>
