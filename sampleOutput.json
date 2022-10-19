@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Steph Curry cooks up 33 PTS, 7 AST in Warriors' first W of the season - ESPN",
+            "description": "Stephen Curry led the Golden State Warriors with 33 PTS, 6 REB & 7 AST, 4 STL & 1 BLK on 10-22 FG as the Warriors held on to defeat the Los Angeles Lakers, 1...",
+            "url": "https://www.youtube.com/watch?v=AjbXAHj3fAk",
+            "urlToImage": "https://i.ytimg.com/vi/AjbXAHj3fAk/maxresdefault.jpg",
+            "publishedAt": "2022-10-19T05:18:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Praveena Somasundaram",
+            "title": "Raleigh shooting suspect's parents release statement - The Washington Post",
+            "description": "Alan and Elise Thompson, whose 16-year-old son was killed in the Oct. 13 shooting, said they have « so many unanswered questions. »",
+            "url": "https://www.washingtonpost.com/nation/2022/10/18/raleigh-shooting-suspect-parents/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHT3S3GSE2TAUX6ZWXFTDLPFJI.jpg&w=1440",
+            "publishedAt": "2022-10-19T04:29:00Z",
+            "content": "Comment on this story\r\nThe parents of the teenage suspect accused of fatally shooting five people in Raleigh, N.C., said Tuesday that there were never any indications or warning signs that their son … [+994 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "R.J. Anderson",
+            "title": "Padres vs. Phillies score: Kyle Schwarber, Bryce Harper and Zack Wheeler star in NLCS Game 1 victory - CBS Sports",
+            "description": "The Phillies took NLCS Game 1 on Tuesday night in San Diego",
+            "url": "https://www.cbssports.com/mlb/news/padres-vs-phillies-score-kyle-schwarber-bryce-harper-and-zack-wheeler-star-in-nlcs-game-1-victory/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/19/7a8ade38-04f1-4bdb-aa1f-726eeb608ba6/thumbnail/1200x675/6359a506e1c6f31ba5e698007615c9a4/schwarber-usatsi.png",
+            "publishedAt": "2022-10-19T04:10:05Z",
+            "content": "The Philadelphia Phillies struck first in the 2022 National League Championship Series with a 2-0 win over the San Diego Padres in Game 1. Phillies co-ace Zack Wheeler dominated with seven shutout in… [+4674 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Shotzi named as host of Halloween Havoc: WWE NXT, Oct. 18, 2022 - WWE",
+            "description": "Shotzi returns to NXT to announce herself as co-host for Halloween Havoc and proposes a showdown between Xyon Quinn and Quincy Elliott to determine who will ...",
+            "url": "https://www.youtube.com/watch?v=4EHdIW1lvmQ",
+            "urlToImage": "https://i.ytimg.com/vi/4EHdIW1lvmQ/maxresdefault.jpg",
+            "publishedAt": "2022-10-19T04:06:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "76ERS at CELTICS | NBA FULL GAME HIGHLIGHTS | October 18, 2022 - NBA",
+            "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.Download now: https://app.li...",
+            "url": "https://www.youtube.com/watch?v=y6QceJlHZGI",
+            "urlToImage": "https://i.ytimg.com/vi/y6QceJlHZGI/maxresdefault.jpg",
+            "publishedAt": "2022-10-19T03:56:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Pjotr Sauer, Dan Sabbagh, Julian Borger",
+            "title": "Russia’s new Ukraine commander signals civilian removals from ‘tense’ Kherson - The Guardian",
+            "description": "Sergei Surovikin says Russia’s defence of occupied southern city ‘not easy’ as Ukraine introduces local news blackout",
+            "url": "https://www.theguardian.com/world/2022/oct/18/russias-new-ukraine-commander-signals-civilian-evacuation-from-tense-kherson",
+            "urlToImage": "https://i.guim.co.uk/img/media/eb516c2f37049c91376dd66e666a6be0239d5c2a/0_35_2388_1433/master/2388.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=458e4c23590f0404590abadf34555145",
+            "publishedAt": "2022-10-19T03:26:00Z",
+            "content": "The new commander of Moscows army in Ukraine has announced that civilians were being resettled from the Russian-occupied southern city of Kherson, describing the military situation as tense.\r\nThe ene… [+7398 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Mark Maske, Nicki Jhabvala",
+            "title": "Colts' Jim Irsay: Removing Daniel Snyder merits 'serious consideration' - The Washington Post",
+            "description": "Addressing reporters in New York, the Indianapolis owner is the first to publicly address the possibility of an ouster.",
+            "url": "https://www.washingtonpost.com/sports/2022/10/18/jim-irsay-dan-snyder-nfl-owners/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JVZ55CQXAI6RBOBSMTMIUIQGM.jpg&w=1440",
+            "publishedAt": "2022-10-19T03:21:00Z",
+            "content": "Comment on this story\r\nNEW YORK On a charged day when the controversy surrounding Washington Commanders owner Daniel Snyder dominated the public conversation, Indianapolis Colts owner Jim Irsay said … [+8965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "https://www.facebook.com/peoplemag",
+            "title": "Are Billy Ray Cyrus and Singer Firerose Engaged? See the Ring on THAT Finger - PEOPLE",
+            "description": "On Tuesday, Billy Ray Cyrus and singer Firerose posted a series of images on Instagram featuring Firerose wearing a diamond ring on her ring finger.",
+            "url": "https://people.com/country/are-billy-ray-cyrus-and-singer-firerose-engaged-see-the-ring/",
+            "urlToImage": "https://people.com/thmb/3Ymi06Syz0ng2HIdi46br7u1dMQ=/1508x1500/filters:fill(auto,1)/Billy-Rays-latest-instagram-post89-18102022-24ad04179f4844f7989f02ef665f304a.jpg",
+            "publishedAt": "2022-10-19T02:41:00Z",
+            "content": "Billy Ray Cyrus and singer Firerose may be heading down to the altar.\r\nOn Tuesday, the singers shared a joint Instagram post with close-up images of the two in front of a tree with orange foliage.\r\nT… [+1626 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Adrienne Broaddus, Bill Kirkos, Andy Rose",
+            "title": "Missouri elementary school found to have 'unacceptable' levels of radioactive contamination will be closed indefinitely - CNN",
+            "description": "An elementary school outside St. Louis found to have \"unacceptable\" levels of radioactive contamination will be closed for the rest of the semester, with students shifting to virtual learning starting Monday, the school board announced.",
+            "url": "https://www.cnn.com/2022/10/18/us/radioactive-school-missouri-coldwater-creek-closed/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221018175910-jana-elementary-school-aerial.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-19T02:30:00Z",
+            "content": "An elementary school outside St. Louis found to have unacceptable levels of radioactive contamination will be closed for the rest of the semester, with students shifting to virtual learning starting … [+3999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee",
+            "title": "Kakao co-CEO resigns after mass outage locked 53 million users out - CNBC",
+            "description": "One of Kakao's top executives will step down after a fire at a data center led to a mass outage over the weekend and disrupted services for 53 million users.",
+            "url": "https://www.cnbc.com/2022/10/19/kakao-co-ceo-resigns-after-mass-outage.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106031585-1563780462965gettyimages-988165304.jpeg?v=1666145968&w=1920&h=1080",
+            "publishedAt": "2022-10-19T02:19:00Z",
+            "content": "A top executive at Kakao Corp., the operator of South Korea's top mobile messenger KakaoTalk, will step down. His resignation comes after a fire at a data center led to a mass outage over the weekend… [+1284 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France, Omar Jimenez",
+            "title": "Lawyers for George Floyd's daughter draft cease-and-desist letter to Kanye West - CNN",
+            "description": "Lawyers representing Roxie Washington, the mother of George Floyd's daughter, have drafted a cease-and-desist letter to Ye, formerly known as Kanye West, over comments he made claiming Floyd was killed by a fentanyl overdose.",
+            "url": "https://www.cnn.com/2022/10/18/entertainment/george-floyd-daughter-kanye-west/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221018124851-kanye-west-1006.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-19T01:38:00Z",
+            "content": "Lawyers representing Roxie Washington, the mother of George Floyds daughter, have drafted a cease-and-desist letter to Ye, formerly known as Kanye West, over comments he made claiming Floyd was kille… [+2773 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "J. Kim Murphy",
+            "title": "‘Black Adam’ Draws Negative Reviews: Dwayne Johnson’s DC Film Is ‘Repetitive’ and ‘Anti-Entertaining’ - Variety",
+            "description": "The hierarchy of power in the DC Universe may be about to change with “Black Adam,” but the new film is landing low on the hierarchy of critical reputation for Warner Bros.’ last decade of superhero entries. With reviews hitting for the Dwayne Johnson vehicle…",
+            "url": "https://variety.com/2022/film/news/black-adam-negatvie-reviews-dc-comics-1235407848/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/02/Black-Adam.png?w=988&h=563&crop=1",
+            "publishedAt": "2022-10-19T01:25:00Z",
+            "content": "The hierarchy of power in the DC Universe may be about to change with “Black Adam,” but the new film is landing low on the hierarchy of critical reputation for Warner Bros.’ last decade of superhero … [+3753 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matt Egan, Phil Mattingly",
+            "title": "America's emergency oil stockpile is at a 38-year low but it's still got firepower left - CNN",
+            "description": "Presidents don't have magic wands to make inflation disappear. But they do have a powerful tool that can help ease the pain of high gas prices: The Strategic Petroleum Reserve.",
+            "url": "https://www.cnn.com/2022/10/18/energy/america-oil-stockpile/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221018181511-01-ca-oil-refinery-092122.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-19T01:13:00Z",
+            "content": "Presidents dont have magic wands to make inflation disappear. But they do have a powerful tool that can help ease the pain of high gas prices: The Strategic Petroleum Reserve.\r\nMore than any of his p… [+5782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Kristin Smart case: Paul Flores found guilty of first-degree murder | LiveNOW from FOX - LiveNOW from FOX",
+            "description": "A jury found Paul Flores guilty of the 1996 murder of Kristin Smart when the two were college students in California. A second jury acquitted Flores's father...",
+            "url": "https://www.youtube.com/watch?v=nWiJUb_YkaQ",
+            "urlToImage": "https://i.ytimg.com/vi/nWiJUb_YkaQ/maxresdefault.jpg",
+            "publishedAt": "2022-10-19T01:03:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kyle Morris",
+            "title": "Florida Senate: Rubio and Demings argue over abortion limitations, exceptions in heated debate - Fox News",
+            "description": "Florida Senate candidates Sen. Marco Rubio (R) and Rep. Val Demings (D) took turns taking jabs at one another on abortion on Tuesday during a debate, three weeks ahead of the election.",
+            "url": "https://www.foxnews.com/politics/florida-senate-debate-rubio-demings-argue-abortion-limitations-exceptions-heated-debate",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/RUBIO-DEMINGS-SPLIT.jpg",
+            "publishedAt": "2022-10-19T01:01:35Z",
+            "content": "The Florida Senate debate became heated Tuesday as the two candidates in the race incumbent GOP Sen. Marco Rubio and Democrat Rep. Val Demings took turns taking jabs at one another over their views o… [+3411 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aaron Navarro",
+            "title": "Body camera footage reveals confusion over Florida Gov. DeSantis' voter fraud arrests - CBS News",
+            "description": "The Republican governor announced in August that 20 former felons had been arrested for breaking the state's voter laws.",
+            "url": "https://www.cbsnews.com/news/florida-gov-desantis-voter-fraud-arrests-bodycam-video/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/10/18/546d23fe-6d45-4cbf-bd67-fdb33cd4a5a3/thumbnail/1200x630/9e15cda4e3c6595ea9d5faa42b4a7373/1-tony-patterson.png",
+            "publishedAt": "2022-10-19T00:16:00Z",
+            "content": "Tony Patterson arrested for voter fraud, Aug. 18, 2022, Tampa.\r\nScreen shot, Tampa Police Department bodycam video\r\nSeveral of those arrested as part of Florida Governor Ron DeSantis' \"opening salvo\"… [+5925 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Jorge L. Ortiz, John Bacon and Maureen Groppe, USA TODAY",
+            "title": "Prospective Speaker McCarthy: GOP won't write Ukraine a 'blank check'; Russian official warns of Ukraine offensive in Kherson: Live updates - USA TODAY",
+            "description": "A strong majority of Ukrainians want to keep fighting Russia’s invasion amid battleground triumphs and deadly strikes on their homeland. Live updates.",
+            "url": "https://www.usatoday.com/story/news/world/2022/10/18/ukraine-russia-war-live-updates/10530302002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/19/USAT/326f14a2-2bf5-4bb1-9708-97c114d43281-Ukraine1.jpg?auto=webp&crop=5139,2891,x0,y260&format=pjpg&width=1200",
+            "publishedAt": "2022-10-19T00:11:15Z",
+            "content": "The clock on the U.S. financial support of Ukraine may be ticking.\r\nWith Republicans expected to win a House majority in next month's midterms, prospective Speaker Kevin McCarthy likely sent a messag… [+9137 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Shashi Tharoor v Mallikarjun Kharge: Can a non-Gandhi Congress chief take on Modi? - BBC",
+            "description": "India's main opposition party is set to elect a new chief to take on the governing BJP.",
+            "url": "https://www.bbc.com/news/world-asia-india-63252922",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/150A8/production/_127148168_gettyimages-1243909572-594x594.jpg",
+            "publishedAt": "2022-10-18T23:18:50Z",
+            "content": "Veteran politician Mallikarjun Kharge is the frontrunner to win the internal election to become the president of India's main opposition Congress party.\r\nHe is competing against charismatic MP Shashi… [+5454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Janet Novack",
+            "title": "IRS Sets Higher 2023 Tax Brackets, Standard Deductions And Other Inflation Adjustments - Forbes",
+            "description": "Forty-year high inflation has driven up the standard deduction for 2023, as well as the tax brackets, earned income tax credit and more.",
+            "url": "https://www.forbes.com/sites/janetnovack/2022/10/18/irs-sets-higher-2023-tax-brackets-standard-deductions-and-other-inflation-adjustments/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/634f1aa4876754bad2c9a291/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-10-18T23:13:11Z",
+            "content": "IRS Sets Higher 2023 Tax Brackets, Standard Deductions And Other Inflation Adjustments\r\ngetty\r\nThe Internal Revenue Service has released dozens of inflation adjustments affecting individual income ta… [+4659 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "As flu cases soar in Georgia, the CDC urges everyone to get the flu shot - Atlanta News First",
+            "description": "Flu cases usually begin to ramp up in November, but as doctors’ offices and hospitals fill up with flu patients, the CDC is urging everyone to get the jab no...",
+            "url": "https://www.youtube.com/watch?v=2rj_9eFtCcM",
+            "urlToImage": "https://i.ytimg.com/vi/2rj_9eFtCcM/maxresdefault.jpg",
+            "publishedAt": "2022-10-18T22:56:46Z",
+            "content": null
+        }
+    ]
+}
